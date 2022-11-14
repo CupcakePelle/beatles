@@ -1,0 +1,28 @@
+body {
+  color: white;
+  background: black;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+table, th, td {
+  border:1px solid white;
+}
+
+a {
+  color: cyan;
+  background-color: black;
+}
+
+a:visited {
+  color: lawngreen;
+}
+
+p {
+  font-size: 20px;
+  margin-left: 30px;
+  text-align: left;
+}
